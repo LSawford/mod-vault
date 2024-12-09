@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Blue Beast",
+        "make": "Subaru",
+        "model": "WRX",
+        "year": 2002,
+        "image": "/images/wrx.webp",
+        "description": "Stage 2 setup with turbo-back exhaust and coilovers.",
+        "ownerId": "user_1"
+    },
+    {
+        "name": "Red Fury",
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2020,
+        "image": "/images/Mustang.webp",
+        "description": "Supercharged with performance tires and Brembo brakes.",
+        "ownerId": "user_2"
+    },
+    {
+        "name": "Green Goblin",
+        "make": "Nissan",
+        "model": "GTR",
+        "year": 2015,
+        "image": "/images/GTR.webp",
+        "description": "Full bolt-on with upgraded turbos and E85 tune.",
+        "ownerId": "user_3"
+    },
+    {
+        "name": "Black Mamba",
+        "make": "Dodge",
+        "model": "Charger Hellcat",
+        "year": 2019,
+        "image": "/images/Hellcat.webp",
+        "description": "Track-ready with upgraded suspension and 800+ horsepower.",
+        "ownerId": "user_4"
+    },
+    {
+        "name": "Silver Streak",
+        "make": "Tesla",
+        "model": "Model S Plaid",
+        "year": 2021,
+        "image": "/images/Tesla.webp",
+        "description": "All-electric powerhouse with 1000+ horsepower.",
+        "ownerId": "user_5"
+    },
+    {
+        "name": "Yellow Flash",
+        "make": "Chevrolet",
+        "model": "Corvette Z06",
+        "year": 2017,
+        "image": "/images/Vette.webp",
+        "description": "High-revving V8 with precision handling for the track.",
+        "ownerId": "user_6"
+    }
+]
